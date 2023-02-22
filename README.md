@@ -1,2 +1,2 @@
 # CSVtoVCF
-Command line swift program to convert CSV files to VCF
+Command line swift programs provide an efficient and reliable way to convert CSV files to VCF. This conversion process is useful for those who need to import contacts again, as it changes the names by only keeping the first three characters of a word. With this program, users can quickly and easily convert their CSV files into VCF format, masking real contact names can be quite beneficial; you're only given a glimpse of each name.
